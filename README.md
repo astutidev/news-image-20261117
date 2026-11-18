@@ -1,8 +1,8 @@
 # The World in One Day — Tuesday 17 November 2026
 
 [![make.fun bounty](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
-[![rank](https://make.fun/badge/news-image-20261117/axiesc/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
-[![reward](https://make.fun/badge/news-image-20261117/axiesc/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/astutidev/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/astutidev/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
 
 A one-image newspaper for the make.fun bounty
 [“Sum up 17 November's world news in one image”](https://make.fun/bounty/news-image-20261117):
